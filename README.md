@@ -1,1 +1,3 @@
-# IMAGE-RESTORATION-AND-DERIVING-NEW-VERSION-OF-IMAGES-
+# IMAGE-RESTORATION-AND-DERIVING-NEW-VERSION-OF-IMAGES
+
+High resolution image is used to generate low resolution image which acts as input for the generator.  Then the high-resolution image is sent through discriminator. We then backpropagate the GAN loss to train the discriminator and the generator. Depending on your image state, Image Restoration offers a wide range of options. As an example, portrait restoration, digital photo enhancement, old photograph reproduction, water and light damage photo restoration, antique picture restoration, and many more. All of these categories are effective in removing imperfections and inaccuracies at the most ingrained level.Ultimately it is the development of AI and machine learning that are improving the scope of the models of image restoration and processing.
